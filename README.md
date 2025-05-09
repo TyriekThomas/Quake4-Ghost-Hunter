@@ -10,6 +10,9 @@ The main emphasis of this mod is to use a gadget device to collect ghost entitie
 
 **//* Help menu**
 
+![clip_000](https://github.com/user-attachments/assets/6e854498-1000-4787-ad6d-9039bb64b56d)
+![clip_002](https://github.com/user-attachments/assets/bbdb43c9-584f-48c8-a3cc-4afd625d9aee)
+
 Jump - Spacebar 			capture target - click/ctrl
 Help Menu (open/close) - Esc   		Select Collector Gadet- 0
 //*
@@ -24,16 +27,26 @@ By modifying this weapon and using in as the barebones framework to build the ne
 The gadget collector  weapon absorbs monsters from far distances and depending on the strength of the enemy will kill it. Ghosts and monsters alike will fly towards the player and into the portal opened by the gadget. 
 //*
 
+![clip_003](https://github.com/user-attachments/assets/7c4cc762-e384-4f7e-b426-bf8b4bedea84)
+
 
 **//* Point collection system**
 The point collection system monitors the game for ghosts that are “collected” by the player. Similar to a kill counter, the player should visually see the number of ghosts they have collected during the session. If available there may also be variable holding the value of the number of total enemies/monsters within the level. (Optional) A message of completion can be displayed when the point collection variable is equivalent to the number of total enemies in the level
 //*
 
+![clip_004](https://github.com/user-attachments/assets/cb553772-9bce-479f-8d76-f5a11628f8cd)
+
 
 **//* Ghosts Monsters**
 By using the current monster the Iron Maiden as the framework to build our ghosts. The Iron Maiden is too powerful as it launches self guiding projectiles during its banshee attack. Ghosts can disable this feature and just result to physical attacks.
+
+![clip_005](https://github.com/user-attachments/assets/0269cc9c-f4af-4da0-8dcc-8866e135f36e)
 
 
 Ghost entities should be able to fly and jump large distances, as well as phase in and out of the scene.
 When it came to spawning the ghost entities I chose to spawn 28 ghosts each 80 seconds. This way the player can enjoy constant gamesplay and can end when they reach their goals or high scores.
 //*
+
+![clip_006](https://github.com/user-attachments/assets/5569e99c-7935-40d2-96df-b74acf56df60)
+![clip_007](https://github.com/user-attachments/assets/20fd9339-cfea-4b5c-8eba-d013973f86d6)
+![clip_008](https://github.com/user-attachments/assets/7cfbc529-2e46-4c2e-87a9-a575cc48557b)
