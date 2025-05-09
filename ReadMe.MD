@@ -1,5 +1,5 @@
 ﻿**By Tyriek Thomas**
-[Tyriek”s GitHub](https://github.com/tyriekt  “Tyriek Thomas’s GitHub homePage”)
+[Tyriek”s GitHub](https://github.com/tyriekthomas  “Tyriek Thomas’s GitHub homePage”)
 //*
 
 
