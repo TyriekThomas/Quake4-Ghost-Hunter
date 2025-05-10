@@ -50,3 +50,7 @@ When it came to spawning the ghost entities I chose to spawn 28 ghosts each 80 s
 ![clip_006](https://github.com/user-attachments/assets/5569e99c-7935-40d2-96df-b74acf56df60)
 ![clip_007](https://github.com/user-attachments/assets/20fd9339-cfea-4b5c-8eba-d013973f86d6)
 ![clip_008](https://github.com/user-attachments/assets/7cfbc529-2e46-4c2e-87a9-a575cc48557b)
+
+Watch the full gameplay demo here!!!
+[Click here to watch the full demo](https://drive.google.com/file/d/1MLOCgE75kCUbTwrexwUd6WyBHGTJ_eDU/view?usp=sharing_/preview)
+
